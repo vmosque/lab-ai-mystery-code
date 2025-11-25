@@ -24,4 +24,4 @@ function hasEvenNumber(arr) {
 // Sample tests
 console.log(hasEvenNumber([1, 3, 5, 6])); // true
 console.log(hasEvenNumber([1, 3, 5, 7])); // false
-console.log(hasEvenNumber([])); // false
+console.log(hasEvenNumber([])); // fals
